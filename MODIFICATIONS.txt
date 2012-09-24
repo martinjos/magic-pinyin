@@ -1,0 +1,15 @@
+
+This is a modified version of WenQuanYi Micro Hei.
+
+I am redistributing this derivative work under the same licences as WenQuanYi Micro Hei (Apache or GPLv3), with the same terms and conditions and same (lack of) warranty.
+The creators of WenQuanYi Micro Hei are not responsible for my modifications.
+
+    This font is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+Please see README.txt, LICENCE_GPLv3.txt and LICENCE_Apache2.txt for the terms and conditions under which you receive this font.
+Please see README.txt for more information on the original font "WenQuanYi Micro Hei".
+
+- Martincode
